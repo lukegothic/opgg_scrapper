@@ -5,10 +5,41 @@ size = 160
 rowscols = 6
 
 splits = ["NASHOR","DRAGON1","DRAGON2","Amateur"]
-
+data_division = {
+    "NASHOR": {
+        "logo": "liga_nashor",
+        "battlefy": "5c27609214e24103a57d29a1",
+        "label": "Nashor",
+        "color1": "b54bfc",
+        "color2": "9c18f9"
+    },
+    "DRAGON1": {
+        "logo": "liga_dragon",
+        "battlefy": "5c313aa5c3126e03b0595543",
+        "label": "&nbsp;Drag&oacute;n</span><span style='font-family: Lobster;'> (grupo A)",
+        "color1": "ad4556",
+        "color2": "b20022"
+    },
+    "DRAGON2": {
+        "logo": "liga_dragon",
+        "battlefy": "5c313aa5c3126e03b0595543",
+        "label": "&nbsp;Drag&oacute;n</span><span style='font-family: Lobster;'> (grupo B)",
+        "color1": "ad4556",
+        "color2": "b20022"
+    },
+    "Amateur": {
+        "logo": "liga_poro",
+        "battlefy": "5c2752dea5deb4039f7d1b88",
+        "label": "Poro",
+        "color1": "a08081",
+        "color2": "a2696b",
+    }
+}
 with open("results/urls.html","w") as f:
     pass
 for s in splits:
+    with open("results/urls.html","a") as f:
+        f.write('<div style="background: linear-gradient(to bottom, #{} 0%,#{} 50%,#{} 51%,#{} 100%); height: 60px; line-height: 60px; font-size: 40px; margin-left: 20px; padding-left: 80px; position: relative; margin: 30px 0;"><img class="logo-division alignnone size-full wp-image-201" style="position: absolute; top: -30px; left: -30px;" src="http://juegoluegoexisto.com/wp-content/uploads/2018/12/{}.png" alt="" width="120" height="120"><a target="_blank" href="https://battlefy.com/juegoluegoexisto/liga-navarra-de-league-of-legends/5c2752964993b903a55f6afe/stage/{}/results"><span style="font-family: Lobster;">divisi&oacute;n</span><span style="text-shadow: 0 0 5px #000; font-family: Staatliches; font-size: 50px;">&nbsp;{}</span></a></div>\n'.format(data_division[s]["color1"],data_division[s]["color1"],data_division[s]["color2"],data_division[s]["color2"],data_division[s]["logo"],data_division[s]["battlefy"],data_division[s]["label"]))
     with open("../data/teams.txt",'r',encoding='utf8') as f:
         r = csv.DictReader(f,fieldnames=['id','division','name','logo','inv1','inv2','inv3','inv4','inv5','sup1','sup2','trainer'])
         for team in r:
