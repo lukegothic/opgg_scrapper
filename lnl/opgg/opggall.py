@@ -3,9 +3,9 @@ from lxml import html
 
 teams = []
 teammembers = ['inv1','inv2','inv3','inv4','inv5','sup1','sup2']
-with open("results/opggall.csv", "w") as f:
+with open("lnl/opgg/results/opggall.csv", "w") as f:
     pass
-with open("../data/teams.txt",'r',encoding='utf8') as f:
+with open("lnl/data/teams.txt",'r',encoding='utf8') as f:
     r = csv.DictReader(f,fieldnames=['id','division','name','logo','inv1','inv2','inv3','inv4','inv5','sup1','sup2','trainer'])
     for team in r:
         mmrs = []
@@ -44,6 +44,6 @@ with open("../data/teams.txt",'r',encoding='utf8') as f:
         for i in range(0,5):
             totalmmr += mmrs[i]
         print(totalmmr)
-        with open("results/opggall.csv", "a", newline='\n') as f:
+        with open("lnl/opgg/results/opggall.csv", "a", newline='\n') as f:
             writer = csv.DictWriter(f, fieldnames=["division","team", "mmr"], delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             writer.writerow({ "division": team["division"], "team": team["name"], "mmr": "{}".format(totalmmr / 5).replace(".", ",") })
