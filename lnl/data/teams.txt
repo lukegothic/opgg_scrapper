@@ -2,32 +2,32 @@
 2,DRAGON1,AISIA GAMING,1,gilitoalex,Rubiamante,UnvotantedelPP,L6N MARHUENDA,jouijoao,,,
 3,DRAGON1,Bad Penguins,1,Dgo7,Lady Lucifeer,Ogladihator,D19A14G27,policia foral,Br1308,,
 4,DRAGON2,Banana Spirit,1,Davidrotxa,Daviud,Mique Silver,R X B X N,ADCarryExpress,,,
-5,Amateur,Baragaming,1,Themarky12,lgndtitan,Xxhi im kingxX,TheFurtado,Rey robot,,,
-6,Amateur,BENG,1,kokeloko12,kaisher master,matiskater,chocolarra,ignarbi13,mazawilly,vault warrior,rajimmy97
+5,PORO,Baragaming,1,Themarky12,lgndtitan,Xxhi im kingxX,TheFurtado,Rey robot,,,
+6,PORO,BENG,1,kokeloko12,kaisher master,matiskater,chocolarra,ignarbi13,mazawilly,vault warrior,rajimmy97
 7,DRAGON1,C mamo,1,el niñ0 guey,Yandellaleyenda,Anderdog44,DROP DATABASE Me,TheSilverDoe,saerath ii,,
 8,NASHOR,Chess Army,1,Dentaid,Dariush,Daru Hasu,Nvidia ÀshesNei,SKT T1 Aigor,Jordiush,,Jordiush
 9,NASHOR,CHK Gaming,1,CHK Paulinho,CHK JowyWeedy,CHK Zuguitas,CHK TheTaiwanBoy,CHK Xabi Shady,El Top es Calvo,,
-10,Amateur,Churragaming,1,Hectoraice26,Vaque13,SrTBO,MrEnanin,Super Draven,Javii36
-11,DRAGON1,EGO-Pies,1,xFriVi,EGOP LenderLuk,MagicPowah,(abduzcan),Midnå,ArriBard España,MarcoHerce,ArriBard España
+10,PORO,Churragaming,1,Hectoraice26,Vaque13,SrTBO,MrEnanin,Super Draven,Javii36
+11,DRAGON1,EGO-Pies,1,xFriVi,EGOP LenderLuk,MagicPowah,Hola Down Pepito,Midnå,ArriBard España,MarcoHerce,ArriBard España
 12,NASHOR,Foxes UNAV,1,Cronôs,Mockercraze,Tp kikogol,The OC,MUERTO DE HAMBRE,SrVitruvio,sombrax007,Jimmywes
 13,DRAGON1,Genesis,1,Maganami,Kutigre11,SETCET,Alaintxoman,OG Wombo Combo,Alvaro3517,Lothlyn,
-14,Amateur,GUXIOK,1,JulenCod,UniElGrande,Kiwi235,Chewaaka,El Ruli,,,TheBuitre
+14,PORO,GUXIOK,1,JulenCod,UniElGrande,Kiwi235,Chewaaka,El Ruli,,,TheBuitre
 15,DRAGON1,IMAGINE eSports,1,FamasESL,kitohhh,Holin77,DarkLizko,GOHORU,Tilted3du,,
 16,NASHOR,ImbaY,1,MotodinoR,Iloveyourmummy,Normando7,Kneeko,Spo1ler,Shadowpotatoe,Niclâs elavaro,
-17,Amateur,Legends Royal Club,1,LRC xPedu,LRC Anroadri,inak12,ivanardoi5,God Skeeereeeeee,zuliki,eldecarglas23,LRC xPedu
-18,Amateur,No N4me,1,SargentoG7,4ntoniuti,shtruit,alexx8881,NicoFlaxh,Valrotxa,deaux11,
-19,Amateur,NOPE Team,1,Adrikean1,cartucho28,manolitobervenas,kizoreal,Unaibs,JonBlackStar,,
+17,PORO,Legends Royal Club,1,LRC xPedu,LRC Anroadri,inak12,ivanardoi5,God Skeeereeeeee,zuliki,eldecarglas23,LRC xPedu
+18,PORO,No N4me,1,SargentoG7,4ntoniuti,shtruit,alexx8881,NicoFlaxh,Valrotxa,deaux11,
+19,PORO,NOPE Team,1,Adrikean1,cartucho28,manolitobervenas,kizoreal,Unaibs,JonBlackStar,,
 20,DRAGON2,OceanicGamingTeam,1,Chefeneitor,Gortxo,DeStroYer 191,Lord Jabat,rojillo5,Astralar,,Chefeneitor
 21,DRAGON2,Out Limits,1,OL Bibulito,OL Djembety,OL Jibirijibiri,OL Zhëiya,Machacaly,,,
-22,Amateur,Piocremas eTeam,1,Reguerace,alvarorc959,Jakkiro,Franeltajas,ShadowOfStile,Mostro
-23,Amateur,Pecados Capitales,1,Tucho77,Weabe,Male Miltank,Omenboyy,Tektitic,Senamo,,Tucho77
+22,PORO,Piocremas eTeam,1,Reguerace,alvarorc959,Jakkiro,Franeltajas,ShadowOfStile,Mostro
+23,PORO,Pecados Capitales,1,Tucho77,Weabe,Male Miltank,Omenboyy,Tektitic,Senamo,,Tucho77
 24,DRAGON1,Runner Blader,1,LordGanikus,RengadFanboy,God Danieloner,AsierBG,God Aitornavaz,brithis,GRektXx,
-25,DRAGON2,Sakura Warriors,1,RaptöRx,SW Hisashi,israel010,YashuraHami,Fouriious,,,
+25,DRAGON2,Sakura Warriors,1,RaptöRz,SW Hisashi,israel010,YashuraHami,Fouriious,,,
 26,DRAGON2,SULVAR,1,Reivaj4,Atram L,DarknessAssassin,Katnisx,Soulzr,ikariamSuper,Javalex,
 27,NASHOR,TalluM,1,Don Cagarro,nDriu,Dw1ght K Schrute,DisgustingBieber,Silverrz,EUS Javï,Rasil25,
 28,DRAGON2,Team Manute,1,iorts,DManiak,euskalkaiser,Jadkarm,Lady Izar,Force18,So sad this adc,manute
 29,DRAGON1,TEAM ROCK3T,1,ROCK3T Mood,ROCK3T LuKe,Zykra,SHT BasmatiRyze,Ctrl Alt Support,ROCK3T Kaiser,Yδ ηαησ ζD,
-30,Amateur,TeamSoloToxic,1,Tappedz,MrIvancho,Unayo,Conguito99,Lluviadecalvos,C0L0S8S,,
+30,PORO,TeamSoloToxic,1,Tappedz,MrIvancho,Unayo,Conguito99,Lluviadecalvos,C0L0S8S,,
 31,NASHOR,Tiberium,1,TBRM BeRsErK,Sadavir,Zhakry,Juersk,Haiyang,Naros,ˇBroken Smileˆ,
 32,NASHOR,Titans Gaming,1,Titans Julensama,Titans Josupro,KIYF Hydrax10,Titans Urriza,Sâncho,Titans Bunsay,Titans Greenkami,Titans Greenkami
 33,DRAGON2,Tupanitacharcutero e-Sports,1,Nightgpipo,TAZyeah,BochÂ elHONRRADO,Lorenzo el sabio,darstplay,chofis19,,
